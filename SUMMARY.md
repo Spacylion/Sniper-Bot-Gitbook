@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌟 Gettin Start](README.md)
+* [🌟 Getting Start](README.md)
 * [✨ Facet Features](facet-features/README.md)
   * [💡 Smart Slippage](facet-features/smart-slippage.md)
 * [📊 Trade](trade/README.md)

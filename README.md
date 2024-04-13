@@ -1,4 +1,23 @@
-# 🌟 Gettin Start
+---
+cover: .gitbook/assets/testBanner.png
+coverY: 117.77066666666666
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🌟 Getting Start
 
 ## Getting Started with the Sniper Bot
 
