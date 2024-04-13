@@ -9,11 +9,6 @@ To change your minimum and maximum buy settings:
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Setting up Min Buy</p></figcaption></figure>
 
-#### Sniping Tokens
-
-* To snipe a specific amount of a token, simply type in the amount.
-* Alternatively, use the **Min Buy** and **Max Buy** settings as shortcuts.
-
 **Default Settings:**
 
 * Min Buy: `0.01 FETH`

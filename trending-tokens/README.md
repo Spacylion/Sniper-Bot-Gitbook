@@ -1,2 +1,0 @@
-# 💎 Trending tokens
-

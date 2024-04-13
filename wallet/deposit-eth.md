@@ -1,22 +1,13 @@
 # 📩 Deposit ETH
 
-#### Adjusting Min and Max Buys
+#### Depositing Ethereum
 
-To change your minimum and maximum buy settings:
+To deposit ETH, simply click on “Deposit ETH,” and a QR code will be presented to you. This QR code can be scanned to facilitate the deposit of ETH into your Sniper wallet seamlessly. Alternatively, if you prefer not to use the QR code, you can copy your wallet’s address directly by clicking on it. This allows for the deposit of ETH into your Sniper wallet without the need for scanning a QR code.
 
-1. Click the **Min Buy** or **Max Buy** buttons.
-2. Type in your desired amounts.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Setting up Min Buy</p></figcaption></figure>
 
-#### Sniping Tokens
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Depositing ETH to your Sniper Bot wallet</p></figcaption></figure>
 
-* To snipe a specific amount of a token, simply type in the amount.
-* Alternatively, use the **Min Buy** and **Max Buy** settings as shortcuts.
+#### ⚠️<mark style="color:yellow;">`Important`</mark>
 
-**Default Settings:**
-
-* Min Buy: `0.01 FETH`
-* Max Buy: `0.02 FETH`
-
-\
+Sniper Bot wallets operate exclusively on the L1 Ethereum chain. Please ensure you are sending ETH tokens to this wallet on the correct chain to avoid any transaction errors. Double-check the network settings before proceeding with the transfer.\
