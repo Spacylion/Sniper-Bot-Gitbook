@@ -1,4 +1,4 @@
-# ⚙️ Buy Settings
+# 📩 Deposit ETH
 
 #### Adjusting Min and Max Buys
 

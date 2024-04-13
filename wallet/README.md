@@ -4,7 +4,7 @@ description: >-
   Telelabs Sniper Bot.
 ---
 
-# ⚙️ Settings
+# 👛 Wallet
 
 To access settings for your wallet and for sniping, type in `/settings` or click “**Settings**” in the start menu and the following menu will appear
 
